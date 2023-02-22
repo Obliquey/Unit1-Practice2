@@ -1,1 +1,2 @@
-console.log("I don't know how Javascript works.")
+console.log("I don't know how Javascript works.");
+
